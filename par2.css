@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color:whitesmoke;
+}
+.main{
+    max-width: 1000px;
+    background-color: paleturquoise;
+    padding: 20px;
+    margin: 0 auto;
+}
+.photo{
+    height: 150px;
+    width: 120px;
+    border: 2px solid rgb(194, 25, 25);
+    float: left;
+}
+.web{
+    padding: 30px;
+    float: left;
+}
+.email{
+    float: right;
+    padding: 30px;
+}
+.email a{
+    text-decoration: none;
+    color: purple;
+}
+.email a:hover{
+    text-decoration: dotted;
+    color: black;
+}
+.clear{
+    clear: both;
+}
+hr{
+    border: solid rgb(189, 35, 15) 2px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.person{
+    width: 30%;
+    float: left;
+}
+.info{
+    width: 70%;
+    float: right;
+}
+.clear2{
+    clear: both;
+}
+.edu{
+    width: 20%;
+    float: left;
+}
+.bsc{
+    width: 45%;
+    float: left;
+}
+.hsc{
+    width: 35%;
+    float: right;
+}
+.clear3{
+    clear: both;
+}
+.fo{
+    text-align: center;
+    background-color: black;
+    padding: 1px;
+    height: 80px;
+}
+.fo a{
+    text-decoration: none;
+    margin: 20px;
+    color: aliceblue;
+}
+.fo p{
+    text-decoration: none;
+    margin: 20px;
+    color: aliceblue;
+}
